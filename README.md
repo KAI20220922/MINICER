@@ -9,4 +9,4 @@ input parameters:
   cover_QF: QF of cover images
   attack_QF: QF of JPEG recompression
   
-  Author:  
+  Author:   zk
